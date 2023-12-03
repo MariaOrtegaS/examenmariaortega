@@ -1,0 +1,5 @@
+manzana,roja,fruta,10
+manzana,roja,fruta,10
+manzana,roja,fruta,10
+pera,verde,fruta,20
+
